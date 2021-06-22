@@ -1,0 +1,6 @@
+datasets/*.zip
+datasets/koeln-regbez-latest.osm.pbf
+datasets/*.csv
+datasets/.ipynb_checkpoints
+.ipynb_checkpoints
+
