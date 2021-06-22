@@ -3,4 +3,5 @@ datasets/koeln-regbez-latest.osm.pbf
 datasets/*.csv
 datasets/.ipynb_checkpoints
 .ipynb_checkpoints
-
+datasets/district_school_counts_gejson.geojson
+geo2_cologne_234.ipynb
